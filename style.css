@@ -119,10 +119,11 @@ body {
 
 .third-slide {
   background: linear-gradient(
-                       rgba(20,20,20, .65), 
-                       rgba(20,20,20, .65)),
+                       rgba(20,20,20, .85), 
+                       rgba(20,20,20, .85)),
                        url( img/Event_Calendar_1024x512_MiamiWalking.com_2_.jpg);
                         background-size: cover;
+                        
                         
 }
 
